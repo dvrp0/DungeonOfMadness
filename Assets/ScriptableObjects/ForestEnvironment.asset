@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf71880b935d15649acd88160e92d466, type: 3}
+  m_Name: ForestEnvironment
+  m_EditorClassIdentifier: 
+  Base: {fileID: 7247434162996846125, guid: e45b7dda926744648850bcc18f2da96c, type: 3}
+  Input: {fileID: 3427048172537935998, guid: a82dc06c22a995a439718d0dbe911246, type: 3}
+  SpecialObject: {fileID: 0}
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Ammos: 50
+  Dart: {fileID: 1911628829043765442, guid: 0f6c14a3264ffd345acb44393e3c07bb, type: 3}
+  DartSpread: 8
+  Delay: 0.15

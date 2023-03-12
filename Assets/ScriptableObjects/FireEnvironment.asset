@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c69c3d65da744d849a973a422ef9827f, type: 3}
+  m_Name: FireEnvironment
+  m_EditorClassIdentifier: 
+  Base: {fileID: 7247434162996846125, guid: 186839bc57ec4c2459e67497a5fcabb1, type: 3}
+  Input: {fileID: 3427048172537935998, guid: a62a1298e04e3554b961e62ecff06852, type: 3}
+  SpecialObject: {fileID: 8680449557853604229, guid: be124f5a6fdf7664d9bc1e0ff19e4ed2, type: 3}
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Ammos: 20
+  Fireball: {fileID: 6325468553788257723, guid: 5a9f5ba7719b08142a2e55a88415c90a, type: 3}
+  LavaDamage: 1
+  Delay: 0.5

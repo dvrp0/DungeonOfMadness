@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a5686b9a0667414caf7ab32f7c90074, type: 3}
+  m_Name: RockEnvironment
+  m_EditorClassIdentifier: 
+  Base: {fileID: 7247434162996846125, guid: 387762fa06cf9334b83d3d5d387f4560, type: 3}
+  Input: {fileID: 3427048172537935998, guid: 2f5507489a885e84ba53941b588d328d, type: 3}
+  SpecialObject: {fileID: 8955839505078259977, guid: 22d688fde3c8fbe49b5aa04406ac7be2, type: 3}
+  Color: {r: 0, g: 0, b: 0, a: 0}
+  Ammos: 10
+  Cannon: {fileID: 6325468553788257723, guid: 3919cbc7e59b669478eb6bfb7423d167, type: 3}
+  Delay: 1
